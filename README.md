@@ -13,7 +13,7 @@ This application uses React and Vite to create a simple calculator that is capab
 ### Usage
 To use this calculator, follow these steps:
 
-1. Clone the repository.
+1. Clone the repository: `git clone https://github.com/xsarahyu/react-calculator.git`
 2. Navigate to the app directory: `cd app`
 3. Install dependencies: `npm install`
 4. Run the app: `npm run dev`
