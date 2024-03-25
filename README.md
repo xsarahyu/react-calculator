@@ -3,7 +3,7 @@
 ### Description
 This application uses React and Vite to create a simple calculator that is capable of addition, subtraction, and resetting.
 
-![]
+![react-calculator.gif]
 
 ### Components
 - The **Display** component renders the value on the calculator.
